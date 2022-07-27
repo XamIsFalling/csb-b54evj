@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "https://xamisfalling.github.io/csb-b54evj/static/css/main.f29ae65a.chunk.css",
+    "main.js": "https://xamisfalling.github.io/csb-b54evj/static/js/main.19a03154.chunk.js",
+    "main.js.map": "https://xamisfalling.github.io/csb-b54evj/static/js/main.19a03154.chunk.js.map",
+    "runtime-main.js": "https://xamisfalling.github.io/csb-b54evj/static/js/runtime-main.3dfef851.js",
+    "runtime-main.js.map": "https://xamisfalling.github.io/csb-b54evj/static/js/runtime-main.3dfef851.js.map",
+    "static/js/2.3b096fcb.chunk.js": "https://xamisfalling.github.io/csb-b54evj/static/js/2.3b096fcb.chunk.js",
+    "static/js/2.3b096fcb.chunk.js.map": "https://xamisfalling.github.io/csb-b54evj/static/js/2.3b096fcb.chunk.js.map",
+    "index.html": "https://xamisfalling.github.io/csb-b54evj/index.html",
+    "static/css/main.f29ae65a.chunk.css.map": "https://xamisfalling.github.io/csb-b54evj/static/css/main.f29ae65a.chunk.css.map",
+    "static/js/2.3b096fcb.chunk.js.LICENSE.txt": "https://xamisfalling.github.io/csb-b54evj/static/js/2.3b096fcb.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.3dfef851.js",
+    "static/js/2.3b096fcb.chunk.js",
+    "static/css/main.f29ae65a.chunk.css",
+    "static/js/main.19a03154.chunk.js"
+  ]
+}
